@@ -1,4 +1,4 @@
-# SistemaRecomendacao_MetricasAcuracia
+# SistemaRecomendacao_AcuraciaModelos
 
 ## Descrição Projeto
 
